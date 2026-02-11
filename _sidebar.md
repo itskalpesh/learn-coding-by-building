@@ -1,6 +1,6 @@
 # 🎓 Course
 
-- 🏁 [Start Here](00_start_here/how_to_use_this_repo.md)
+- 🏁 [Start Here](00_start_here/README.md)
 
 ---
 
