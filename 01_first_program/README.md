@@ -1,7 +1,7 @@
 # 📄 `01_first_program/README.md`
 
 
-⬅️ **Previous:** [Start Here](../00_start_here/README.md)  
+⬅️ **Previous:** [Start Here](00_start_here/README.md)  
 
 ---
 
@@ -108,7 +108,7 @@ That’s already a lot 👍
 
 ## 📝 Practice Time
 
-👉 Go to: [TASKS.md](./TASKS.md)
+👉 Go to: [TASKS.md](TASKS.md)
 
 Try the tasks.
 Breaking the code is allowed 😄
@@ -119,9 +119,9 @@ Breaking the code is allowed 😄
 
 Once you complete the tasks, move to the next lesson:
 
-⬅️ **Previous:** [Start Here](../00_start_here/README.md) 
+⬅️ **Previous:** [Start Here](00_start_here/README.md) 
 ➡️ **Next Lesson:**
-📘 [02. Making Decisions](../02_making_decisions/README.md)
+📘 [02. Making Decisions](02_making_decisions/README.md)
 
 
 
