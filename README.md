@@ -96,8 +96,10 @@ git clone https://github.com/itskalpesh/learn-coding-by-building.git
 cd learn-coding-by-building
 pip install -r requirements.txt
 ```
+---
 
-Start from: [00_start_here/](00_start_here/readme.md)
+Start from:
+[Start Here](00_start_here/README.md)
 
 ---
 
