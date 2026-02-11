@@ -108,7 +108,7 @@ That’s already a lot 👍
 
 ## 📝 Practice Time
 
-👉 Go to: [TASKS.md](./TASKS.md)
+👉 Go to: [TASKS.md](/01_first_program/TASKS.md)
 
 Try the tasks.
 Breaking the code is allowed 😄
