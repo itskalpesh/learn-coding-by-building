@@ -1,6 +1,7 @@
 <!-- Force rebuild -->
 <!DOCTYPE html>
 <html>
+
 <head>
     <meta charset="UTF-8" />
     <title>Learn Coding by Building VED</title>
@@ -14,6 +15,15 @@
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
         }
 
+        /* Fix Docsify dark mode file path title */
+        body.dark .markdown-section>p:first-child {
+            background: rgba(255, 255, 255, 0.08) !important;
+            color: #fff !important;
+            padding: 6px 10px;
+            border-radius: 6px;
+            font-family: monospace;
+        }
+
         .theme-toggle {
             cursor: pointer;
             padding: 6px 10px;
@@ -24,12 +34,39 @@
             margin-left: 10px;
         }
 
+        /* Hide auto file path title */
+        .markdown-section>p:first-child {
+            display: none;
+        }
+
         .progress-info {
             font-size: 13px;
             margin-bottom: 10px;
             padding: 8px;
-            background: #f4f4f4;
             border-radius: 6px;
+            transition: background 0.3s ease, color 0.3s ease;
+        }
+
+        /* Light mode */
+        body:not(.dark) .progress-info {
+            background: #f4f4f4;
+            color: #333;
+        }
+
+        /* Dark mode */
+        body.dark .progress-info {
+            background: rgba(255, 255, 255, 0.08);
+            color: #fff;
+        }
+
+        body.dark .theme-toggle {
+            background: #42b983;
+            color: white;
+        }
+
+        body:not(.dark) .theme-toggle {
+            background: #42b983;
+            color: white;
         }
 
         .content {
@@ -57,7 +94,7 @@
             loadSidebar: true,
             loadNavbar: true,
             subMaxLevel: 2,
-           
+
             auto2top: true,
             mergeNavbar: true,
             maxLevel: 3,
