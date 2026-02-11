@@ -50,27 +50,10 @@
     <div id="app"></div>
 
     <script>
-        const savedTheme = localStorage.getItem("ved-theme");
-        if (savedTheme === "dark") {
-            document.getElementById("theme-style").href =
-                "https://cdn.jsdelivr.net/npm/docsify/lib/themes/dark.css";
-        }
-
-        function toggleTheme() {
-            const link = document.getElementById("theme-style");
-            if (link.href.includes("dark.css")) {
-                link.href = "https://cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css";
-                localStorage.setItem("ved-theme", "light");
-            } else {
-                link.href = "https://cdn.jsdelivr.net/npm/docsify/lib/themes/dark.css";
-                localStorage.setItem("ved-theme", "dark");
-            }
-        }
-
         window.$docsify = {
             name: '🚀 Learn Coding by Building VED',
             repo: 'https://github.com/itskalpesh/learn-coding-by-building',
-            
+
             loadSidebar: true,
             loadNavbar: true,
             subMaxLevel: 2,
@@ -87,25 +70,41 @@
             plugins: [
                 function (hook, vm) {
                     hook.doneEach(function () {
-                        const content = document.querySelector(".content");
+                        setTimeout(function () {
+                            const content = document.querySelector(".content");
+                            if (!content) return;
 
-                        const progress = document.createElement("div");
-                        progress.className = "progress-info";
-                        progress.innerHTML = `
-              📍 Last visited lesson saved automatically.
-              <span class="theme-toggle" onclick="toggleTheme()">Toggle Theme</span>
-            `;
+                            if (!document.querySelector(".progress-info")) {
+                                const progress = document.createElement("div");
+                                progress.className = "progress-info";
+                                progress.innerHTML = `
+                📍 Last visited lesson saved automatically.
+                <button class="theme-toggle" onclick="toggleTheme()">Toggle Theme</button>
+              `;
+                                content.prepend(progress);
+                            }
 
-                        content.prepend(progress);
-                        localStorage.setItem("ved-last-page", vm.route.path);
+                            localStorage.setItem("ved-last-page", vm.route.path);
+                        }, 200);
                     });
                 }
             ]
         };
+
+        function toggleTheme() {
+            const link = document.getElementById("theme-style");
+            if (link.href.includes("dark.css")) {
+                link.href = "https://cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css";
+                localStorage.setItem("ved-theme", "light");
+            } else {
+                link.href = "https://cdn.jsdelivr.net/npm/docsify/lib/themes/dark.css";
+                localStorage.setItem("ved-theme", "dark");
+            }
+        }
     </script>
 
-    <script src="https://cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js?v=3"></script>
-    <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js?v=3"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code"></script>
 
 </body>
