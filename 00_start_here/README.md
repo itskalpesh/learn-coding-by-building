@@ -121,10 +121,10 @@ But **one small step at a time**.
 Your first project is **very small** and **very friendly**.
 
 👉 **Previous Intro:**  
-📂 [`Intro/`](readme.md)
+📂 [`Intro/`](README.md)
 
 👉 **Next Lesson:**  
-📂 [`01_first_program/`](01_first_program/readme.md)
+📂 [`01_first_program/`](01_first_program/README.md)
 
 In the next lesson, you will:
 - write your first program
