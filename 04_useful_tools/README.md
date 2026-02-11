@@ -26,21 +26,21 @@ Complete them in order.
 ## 🧮 Step 1 — Calculator
 
 👉 Go here:  
-📘 [Calculator](calculator/README.md)
+📘 [Calculator](04_useful_tools/calculator/README.md)
 
 ---
 
 ## ⏰ Step 2 — Time Checker
 
 👉 Go here:  
-📘 [Time Checker](time_checker/README.md)
+📘 [Time Checker](04_useful_tools/time_checker/README.md)
 
 ---
 
 ## 📂 Step 3 — File Reader
 
 👉 Go here:  
-📘 [File Reader](file_reader/README.md)
+📘 [File Reader](04_useful_tools/file_reader/README.md)
 
 ---
 
