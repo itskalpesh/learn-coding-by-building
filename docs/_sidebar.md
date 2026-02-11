@@ -1,4 +1,4 @@
-# 📚 Course Roadmap
+# 🎓 Course Navigation
 
 - 🏁 [Start Here](../00_start_here/how_to_use_this_repo.md)
 
