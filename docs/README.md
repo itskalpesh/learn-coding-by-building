@@ -36,9 +36,7 @@ Integrate everything into VED.
 
 ---
 
-## ▶️ Start Now
 
-👉 Use the sidebar and begin from **Start Here**.
 
 ---
 
