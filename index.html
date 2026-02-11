@@ -80,6 +80,66 @@
         .markdown-section h2 {
             margin-top: 30px;
         }
+
+        /* MOBILE FIXES */
+        @media screen and (max-width: 768px) {
+
+            /* Make navbar horizontal and clean */
+            .app-nav {
+                position: fixed;
+                top: 0;
+                left: 0;
+                right: 0;
+                background: var(--theme-color, #42b983);
+                padding: 8px 10px;
+                z-index: 999;
+            }
+
+            .app-nav ul {
+                display: flex;
+                justify-content: space-around;
+            }
+
+            .app-nav li {
+                margin: 0;
+            }
+
+            .app-nav a {
+                color: white !important;
+                font-weight: 500;
+            }
+
+            /* Add space so content doesn't hide behind navbar */
+            .content {
+                margin-top: 60px;
+            }
+
+            /* Sidebar spacing */
+            .sidebar {
+                padding-top: 60px;
+            }
+
+            /* Improve sidebar on mobile */
+            .sidebar {
+                background: #2c3e50;
+            }
+
+            .sidebar-toggle {
+                background: #42b983;
+            }
+
+            /* Smooth animation */
+            .sidebar {
+                transition: transform 0.3s ease;
+            }
+
+            /* Clean active link highlight */
+            .sidebar ul li.active>a {
+                color: #42b983 !important;
+                font-weight: 600;
+            }
+
+        }
     </style>
 </head>
 
