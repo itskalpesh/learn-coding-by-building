@@ -4,36 +4,44 @@
 ![Python](https://img.shields.io/badge/python-3.10+-blue)
 ![Status](https://img.shields.io/badge/status-active-success)
 ![Project Type](https://img.shields.io/badge/type-project--based--learning-orange)
+
 > From zero coding → system design → full AI capstone.
 
 A complete **project-based learning roadmap** that teaches programming
-by building a modular AI assistant (VED) from scratch.
+by building a modular AI assistant (**VED**) from scratch.
+
+---
+
+## 📸 Preview
+
+![VED UI](assets/ui.png)
 
 ---
 
 ## 📚 What This Repository Contains
 
-✔ Beginner-friendly structured lessons  
-✔ 12 progressive learning stages  
-✔ Modular AI architecture  
-✔ Voice, Vision & Memory integration  
-✔ Final capstone assistant system  
-✔ Open-source & extensible design  
+* ✔ 12 progressive learning stages
+* ✔ Beginner-friendly structured lessons
+* ✔ Modular AI architecture
+* ✔ Voice, Vision & Memory integration
+* ✔ Final capstone assistant system
+* ✔ Open-source & extensible design
 
-![VED UI](assets/ui.png)
 ---
 
 ## 🧠 Learning Philosophy
 
-This project teaches:
+This project focuses on:
 
-- Programming fundamentals
-- Modular architecture
-- System design thinking
-- Real-world AI structuring
-- Clean separation of concerns
+* Programming fundamentals
+* Modular architecture
+* System design thinking
+* Real-world AI structuring
+* Clean separation of concerns
 
-No theory overload.  
+No theory overload.
+No random tutorials.
+
 You learn by building.
 
 ---
@@ -41,7 +49,6 @@ You learn by building.
 ## 🗺️ Learning Roadmap
 
 ```
-
 00 → Start Here
 01 → First Program
 02 → Decision Logic
@@ -55,7 +62,6 @@ You learn by building.
 10 → Real World Apps
 11 → AI System Thinking
 12 → Build Final VED
-
 ```
 
 ---
@@ -64,21 +70,37 @@ You learn by building.
 
 By completing this repository, you will build:
 
-- A modular AI assistant
-- Persistent memory system
-- Voice interaction
-- Computer vision module
-- Clean GUI interface
-- Expandable architecture
+* A modular AI assistant
+* Persistent memory system
+* Voice interaction layer
+* Computer vision module
+* Clean GUI interface
+* Expandable system architecture
+
+You will understand how real AI systems are structured.
 
 ---
 
 ## 🛠 Requirements
 
+```bash
+pip install -r requirements.txt
 ```
 
-pip install -r requirements.txt
+---
 
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/itskalpesh/learn-coding-by-building.git
+cd learn-coding-by-building
+pip install -r requirements.txt
+```
+
+Start from:
+
+```
+00_start_here/
 ```
 
 ---
@@ -95,12 +117,15 @@ MIT License — see [LICENSE](./LICENSE)
 
 ---
 
-## ⭐ If This Helps You
+## ⭐ Support
 
-Star the repository.
-Build your own version.
-Improve it.
-Share it.
+If this project helps you:
+
+* Star the repository
+* Fork it
+* Improve it
+* Share it
 
 Let’s build VED together 🚀
 
+---
