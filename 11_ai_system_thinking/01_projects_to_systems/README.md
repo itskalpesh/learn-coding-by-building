@@ -43,6 +43,6 @@ You can explain how at least 3 projects connect.
 
 ---
 
-⬅️ **Previous:** [10_real_world_apps](10_real_world_apps/README.md) 
+⬅️ **Previous:** [11_ai_system_thinking](11_ai_system_thinking/README.md) 
 
-➡️ **Next:** [12_build_ved_ai_capstone](12_build_ved_ai_capstone/README.md)
+➡️ **Next:** [02_ai_is_not_one_file](11_ai_system_thinking/02_ai_is_not_one_file/README.md)

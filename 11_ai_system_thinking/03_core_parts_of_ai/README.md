@@ -1,8 +1,3 @@
-⬅️ Back: [AI System Thinking](../README.md)  
-➡️ Next: [04. How VED Is Designed](../04_how_ved_is_designed/README.md)
-
----
-
 # 03. Core Parts of AI
 
 Now that you understand AI should not be one file,
@@ -109,11 +104,53 @@ With Memory connected.
 
 ---
 
-👉 Practice: [TASKS.md](./TASKS.md)
+# Tasks — Core Parts of AI
 
 ---
 
-When done:
+## ✅ Task 1: Map Your Projects
 
-➡️ Continue to:
-[04. How VED Is Designed](../04_how_ved_is_designed/README.md)
+Match your previous projects to these categories:
+
+- Input
+- Brain
+- Tools
+- Memory
+- Output
+
+Write your answers in the project file.
+
+---
+
+## ✅ Task 2: Draw the Flow
+
+Draw this on paper or digitally:
+
+User → ? → ? → ? → Response
+
+Fill in the layers.
+
+---
+
+## ✅ Task 3: Explain In Simple Words
+
+Explain AI architecture in one paragraph.
+
+Imagine explaining it to a 12-year-old.
+
+---
+
+## 🏁 Success Check
+
+You are done when:
+
+- You can explain all 5 core parts
+- You can describe full AI flow
+- You understand how projects connect
+
+
+---
+
+⬅️ **Previous:** [02_ai_is_not_one_file](11_ai_system_thinking/02_ai_is_not_one_file/README.md) 
+
+➡️ **Next:** [04_how_ved_is_designed](11_ai_system_thinking/04_how_ved_is_designed/README.md)

@@ -1,8 +1,3 @@
-⬅️ Back: [AI System Thinking](../README.md)  
-➡️ Next: [12. Build VED AI Capstone](../../12_build_ved_ai_capstone/README.md)
-
----
-
 # 05. Summary — You Are Ready
 
 Let’s pause for a moment.
@@ -73,11 +68,50 @@ Coder → System Builder
 
 ---
 
-👉 Practice: [TASKS.md](./TASKS.md)
+# Final Reflection Tasks
 
 ---
 
-When ready:
+## ✅ Task 1: Explain AI System Design
 
-➡️ Continue to:
-[12. Build VED AI Capstone](../../12_build_ved_ai_capstone/README.md)
+In your own words, explain:
+
+What is an AI system?
+
+Keep it under 10 lines.
+
+---
+
+## ✅ Task 2: Identify Components
+
+List the 6 main parts of VED from memory.
+
+---
+
+## ✅ Task 3: Confidence Check
+
+Answer honestly:
+
+Can you explain how voice, memory, and tools connect together?
+
+If yes → you are ready.
+
+If no → revisit previous lessons.
+
+---
+
+## 🏁 Graduation Check
+
+You are ready for capstone when:
+
+- You understand architecture
+- You understand modular design
+- You feel comfortable building multiple files
+
+
+---
+**Go to:** [11_ai_system_thinking](11_ai_system_thinking/README.md)
+
+⬅️ **Previous:** [04_how_ved_is_designed](11_ai_system_thinking/04_how_ved_is_designed/README.md) 
+
+➡️ **Next:** [12_build_ved_ai_capstone](12_build_ved_ai_capstone/README.md)

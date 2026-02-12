@@ -1,8 +1,3 @@
-⬅️ Back: [AI System Thinking](../README.md)  
-➡️ Next: [03. Core Parts of AI](../03_core_parts_of_ai/README.md)
-
----
-
 # 02. AI Is Not One File
 
 When beginners think of AI,
@@ -80,11 +75,56 @@ Each part does ONE job well.
 
 ---
 
-👉 Practice: [TASKS.md](./TASKS.md)
+# Tasks — AI Is Not One File
 
 ---
 
-When done:
+## ✅ Task 1: Break It Apart
 
-➡️ Continue to:
-[03. Core Parts of AI](../03_core_parts_of_ai/README.md)
+Take your Smart AI Brain project.
+
+Write down how you would split it into:
+
+- brain.py
+- tools.py
+- memory.py
+
+You don’t need to code yet.
+Just write what each file would contain.
+
+---
+
+## ✅ Task 2: Identify Responsibilities
+
+For each of these, write one sentence:
+
+What is its job?
+
+Example:
+tools.py → performs actions like math or time.
+
+---
+
+## ✅ Task 3: Why Is This Better?
+
+Answer:
+
+Why is splitting files better than one giant file?
+
+Write your answer in the project folder.
+
+---
+
+## 🏁 Success Check
+
+You are done when:
+
+- You can explain why AI should be modular
+- You can describe at least 3 separate components
+
+
+---
+
+⬅️ **Previous:** [01_projects_to_systems](11_ai_system_thinking/01_projects_to_systems/README.md) 
+
+➡️ **Next:** [03_core_parts_of_ai](11_ai_system_thinking/03_core_parts_of_ai/README.md)

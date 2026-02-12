@@ -1,8 +1,3 @@
-⬅️ Back: [AI System Thinking](../README.md)  
-➡️ Next: [05. Summary](../05_summary/README.md)
-
----
-
 # 04. How VED Is Designed
 
 Now that you understand:
@@ -88,11 +83,58 @@ That is a major step forward.
 
 ---
 
-👉 Practice: [TASKS.md](./TASKS.md)
+
+# Tasks — Designing VED
 
 ---
 
-When done:
+## ✅ Task 1: Draw the Architecture
 
-➡️ Continue to:
-[05. Summary](../05_summary/README.md)
+Draw the VED flow:
+
+User → Input → Brain → Tool → Output
+
+Add Memory where appropriate.
+
+---
+
+## ✅ Task 2: File Responsibilities
+
+Write one sentence for each:
+
+- brain.py
+- memory.py
+- tools.py
+- voice.py
+- vision.py
+- ui.py
+
+What does each one do?
+
+---
+
+## ✅ Task 3: Think About Expansion
+
+If you wanted to add:
+
+- Weather command
+- Music command
+- Email command
+
+Which file would you modify?
+
+---
+
+## 🏁 Success Check
+
+You are ready for capstone when:
+
+- You understand VED structure
+- You can explain its flow
+- You know why each file exists
+
+---
+
+⬅️ **Previous:** [03_core_parts_of_ai](11_ai_system_thinking/03_core_parts_of_ai/README.md) 
+
+➡️ **Next:** [05_summary](11_ai_system_thinking/05_summary/README.md)
