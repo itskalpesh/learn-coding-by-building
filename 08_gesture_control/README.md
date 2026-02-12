@@ -1,11 +1,5 @@
-# 📄 `08_gesture_control/README.md`
-
-⬅️ **Previous:** [07. Seeing Computer](../07_seeing_computer/README.md)  
-
+# ✋ `08_gesture_control`
 ---
-
-# ✋ 08. Gesture Control
-
 Now your computer can:
 - Talk
 - Listen
@@ -107,10 +101,10 @@ Now your computer can track hands.
 
 ## 📝 Practice Time
 
-👉 Go to: [TASKS.md](./TASKS.md)
+👉 Go to: [08_TASKS.md]( 08_gesture_control/TASKS.md)
 
 ---
-⬅️ **Previous:** [07. Seeing Computer](../07_seeing_computer/README.md)  
+⬅️ **Previous:** [07_seeing_computer](07_seeing_computer/README.md)  
 
-➡️ **Next:** [09. Smart AI Brain](../09_smart_ai_brain/README.md)
+➡️ **Next:** [09_smart_ai_brain](09_smart_ai_brain/README.md)
 

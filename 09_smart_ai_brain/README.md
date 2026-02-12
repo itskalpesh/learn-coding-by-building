@@ -1,11 +1,5 @@
-# 📄 `09_smart_ai_brain/README.md`
-
-⬅️ **Previous:** [08. Gesture Control](../08_gesture_control/README.md)  
-
+# 🧠 `09_smart_ai_brain`
 ---
-
-# 🧠 09. Smart AI Brain
-
 Until now, your computer can:
 - Talk
 - Listen
@@ -127,9 +121,9 @@ This is how real assistants start.
 
 ## 📝 Practice Time
 
-👉 Go to: [TASKS.md](./TASKS.md)
+👉 Go to: [09_TASKS](09_smart_ai_brain/TASKS.md)
 
 ---
-⬅️ **Previous:** [08. Gesture Control](../08_gesture_control/README.md) 
+⬅️ **Previous:** [08_gesture_control](08_gesture_control/README.md) 
  
-➡️ **Next:** [10. Real World Apps](../10_real_world_apps/README.md)
+➡️ **Next:** [10_real_world_apps](10_real_world_apps/README.md)

@@ -1,8 +1,5 @@
 
-# 📝 `09_smart_ai_brain/TASKS.md`
-
-⬅️ Back to lesson: [README.md](./README.md)
-
+# 📝 `09_TASKS`
 ---
 
 # 🧪 Tasks — Smart AI Brain
@@ -43,3 +40,8 @@ You are done when:
 - At least 4 commands work
 - The program runs continuously
 - It exits safely
+  
+  ---
+⬅️ **Previous:** [09_smart_ai_brain](09_smart_ai_brain/README.md) 
+ 
+➡️ **Next:** [10_real_world_apps](10_real_world_apps/README.md)

@@ -1,7 +1,5 @@
 # 🛠️ 04. Useful Tools
 
-⬅️ **Previous:** [03. Remembering Things](../03_remembering_things/README.md)
-
 ---
 
 So far, you built:
@@ -30,22 +28,23 @@ Complete them in order.
 
 ---
 
-## ⏰ Step 2 — Time Checker
+## 📂 Step 2 — File Reader
+
+👉 Go here:  
+📘 [File Reader](04_useful_tools/file_reader/README.md)
+
+
+---
+
+## ⏰ Step 3 — Time Checker
 
 👉 Go here:  
 📘 [Time Checker](04_useful_tools/time_checker/README.md)
 
 ---
 
-## 📂 Step 3 — File Reader
-
-👉 Go here:  
-📘 [File Reader](04_useful_tools/file_reader/README.md)
-
----
-
 When all three are done, move forward:
-⬅️ **Previous:** [03. Remembering Things](../03_remembering_things/README.md)
 
-➡️ **Next Lesson:**  
-📘 [05. Talking Computer](../05_talking_computer/README.md)
+⬅️ **Previous:** [03_remembering_things](03_remembering_things/README.md)
+
+➡️ **Next Lesson:** [05_talking_computer](05_talking_computer/README.md)

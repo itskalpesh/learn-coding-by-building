@@ -1,8 +1,5 @@
 
-# 📝 `07_seeing_computer/TASKS.md`
-
-⬅️ Back to lesson: [README.md](./README.md)
-
+# 📝 `07_TASKS`
 ---
 
 # 🧪 Tasks — Seeing Computer
@@ -52,3 +49,6 @@ You are done when:
 - Face count is displayed
 
 ---
+⬅️ **Previous:** [07_seeing_computer](07_seeing_computer/README.md)
+
+➡️ **Next:** [08_gesture_control](08_gesture_control/README.md)

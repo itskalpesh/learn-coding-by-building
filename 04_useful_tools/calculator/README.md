@@ -1,7 +1,3 @@
-⬅️ Back: [Useful Tools](../README.md)
-
----
-
 # 🧮 Calculator Project
 
 In this project, you will build a simple calculator.
@@ -32,5 +28,18 @@ You will learn:
 - multiple decisions
 
 ---
+# Tasks
 
-👉 Practice: [TASKS.md](./TASKS.md)
+1. Add power operation (^ or **)
+2. Prevent division by zero
+3. Add a loop so calculator runs multiple times
+
+You are done when:
+- It handles invalid inputs safely
+- It runs continuously until user exits
+
+---
+
+⬅️ **Previous:** [04_useful_tools](04_useful_tools/README.md)
+
+➡️ **Next:** [file_reader](04_useful_tools/file_reader/README.md)

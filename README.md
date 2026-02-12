@@ -105,13 +105,13 @@ Start from:
 
 ## 🤝 Contributing
 
-See [CONTRIBUTING.md](./CONTRIBUTING.md)
+See [CONTRIBUTING](CONTRIBUTING.md)
 
 ---
 
 ## 📜 License
 
-MIT License — see [LICENSE](./LICENSE)
+MIT License — see [LICENSE](LICENSE.md)
 
 ---
 

@@ -1,6 +1,4 @@
-# 📝 `02_making_decisions/TASKS.md`
-
-⬅️ Back to lesson: [README.md](./README.md)
+# 📝 `02_TASKS`
 
 ---
 
@@ -67,6 +65,6 @@ You are done when:
 - It works even if you type ADMIN in capital letters
 
 ---
-⬅️ Back to lesson: [README.md](./README.md)
+⬅️ Back to lesson: [02_making_decision](02_making_decisions/README.md)
 
-➡️ Next Lesson:📘 [03. Remembering Things](../03_remembering_things/README.md)
+➡️ Next Lesson: [03. Remembering Things](03_remembering_things/README.md)

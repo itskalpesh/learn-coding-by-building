@@ -132,15 +132,4 @@ In the next lesson, you will:
 - learn without fear
 
 Click the link above when you’re ready 😄
-```
 
----
-
-## ✅ What We’ve Done Now
-
-* Created the **first navigation page**
-* Set the **tone for non-coders**
-* Explained **how learning works**
-* Added a **clear Next link**
-
----

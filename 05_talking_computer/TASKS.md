@@ -1,7 +1,4 @@
-# 📝 `05_talking_computer/TASKS.md`
-
-```md
-⬅️ Back to lesson: [README.md](./README.md)
+# 📝 `05_TASKS`
 
 ---
 
@@ -40,3 +37,10 @@ You are done when:
 - The computer speaks user input
 - You changed voice speed
 - It works without crashing
+
+---
+
+## 🚀 Next Lesson
+⬅️ **Previous:** [05_talking_computer](05_talking_computer/README.md)
+
+➡️ **Next:** [06. Listening Computer](06_listening_computer/README.md)

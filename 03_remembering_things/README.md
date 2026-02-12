@@ -1,6 +1,4 @@
-# 📄 `03_remembering_things/README.md`
-
-⬅️ **Previous:** [02. Making Decisions](../02_making_decisions/README.md)  
+# 📄 `03_remembering_things`
 
 ---
 
@@ -119,13 +117,14 @@ You just built memory.
 
 ## 📝 Practice Time
 
-👉 Go to: [TASKS.md](./TASKS.md)
+👉 Go to: [03_TASKS](03_remembering_things/TASKS.md)
 
 ---
 
 ## 🚀 When You're Done
-⬅️ **Previous:** [02. Making Decisions](../02_making_decisions/README.md)
+⬅️ **Go to:** [02_TASKS](02_making_decisions/TASKS.md)
 
-➡️ **Next Lesson:**
-📘 [04. Useful Tools](../04_useful_tools/README.md)
+⬅️ **Previous:** [02_making_decisions](02_making_decisions/README.md)
+
+➡️ **Next Lesson:** [04_useful_tools](04_useful_tools/README.md)
 

@@ -1,7 +1,5 @@
-# 📄 `02_making_decisions/README.md`
-
-⬅️ **Previous:** [01. Your First Program](../01_first_program/README.md)  
-
+# 📄 `02_making_decisions`
+ 
 ---
 
 # 🟢 02. Making Decisions
@@ -108,13 +106,14 @@ This is called **decision making**.
 
 ## 📝 Practice Time
 
-👉 Go to: [TASKS.md](./TASKS.md)
+👉 Go to: [02_TASKS](02_making_decisions/TASKS.md)
 
 ---
 
 ## 🚀 When You're Done
-⬅️ **Previous:** [01. Your First Program](../01_first_program/README.md)  
+⬅️ **Go to:** [01_TASKS](/01_first_program/TASKS.md)
 
-➡️ **Next Lesson:**
-📘 [03. Remembering Things](../03_remembering_things/README.md)
+⬅️ **Previous:** [01. Your First Program](01_first_program/README.md) 
+
+➡️ **Next:** [03. Remembering Things](03_remembering_things/README.md)
 

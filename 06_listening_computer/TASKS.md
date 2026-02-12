@@ -1,6 +1,4 @@
-# 📝 `06_listening_computer/TASKS.md`
-
-⬅️ Back to lesson: [README.md](./README.md)
+# 📝 `06_TASKS`
 
 ---
 
@@ -48,3 +46,8 @@ You are done when:
 - The program prints what you said
 - It responds differently to certain words
 - It can speak the response
+
+---
+⬅️ **Previous:** [06_listening_computer](06_listening_computer/README.md)
+
+➡️ **Next :** [07_seeing_computer](07_seeing_computer/README.md)

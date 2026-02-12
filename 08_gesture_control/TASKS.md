@@ -1,7 +1,5 @@
 
-# 📝 `08_gesture_control/TASKS.md`
-
-⬅️ Back to lesson: [README.md](./README.md)
+# 📝 `08_TASKS`
 
 ---
 
@@ -47,3 +45,8 @@ You are done when:
 - Hand landmarks are visible
 - Finger count works
 - At least one gesture triggers a message
+
+---
+⬅️ **Previous:** [08_gesture_control](08_gesture_control/README.md)  
+
+➡️ **Next:** [09_smart_ai_brain](09_smart_ai_brain/README.md)

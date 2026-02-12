@@ -1,6 +1,4 @@
-# 📝 `01_first_program/TASKS.md`
-
-⬅️ Back to lesson: [README.md](./README.md)
+# 📝 `01_TASKS`
 
 ---
 
@@ -15,10 +13,9 @@ Take your time.
 ## ✅ Task 1: Change the Message
 - Change the first message to something else
 - Example:
-```
-
+  
+```bash
 Hi! What should I call you?
-
 ```
 
 ---
@@ -28,10 +25,9 @@ Hi! What should I call you?
 - Print it back
 
 Example:
-```
 
+```bash
 Your favorite color is blue
-
 ```
 
 ---
@@ -39,10 +35,9 @@ Your favorite color is blue
 ## ✅ Task 3: Make It Personal
 - Change the final message to include the name differently
 - Example:
-```
-
+  
+```bash
 Kalpesh, welcome to your first program!
-
 ```
 
 ---
@@ -56,9 +51,6 @@ You are done when:
 If this works — you passed this lesson 🎉
 
 ---
-⬅️ Back to lesson: [README.md](./README.md)   
+⬅️ **Back to lesson:** [01_first_program](01_first_program/README.md) 
     
-➡️ **Next Lesson:**  📘 [02. Making Decisions](../02_making_decisions/README.md)
-
-
----
+➡️ **Next Lesson:** [02_making_decisions](02_making_decisions/README.md)

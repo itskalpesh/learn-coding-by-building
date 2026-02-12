@@ -1,10 +1,5 @@
-# 📄 `07_seeing_computer/README.md`
-
-⬅️ **Previous:** [06. Listening Computer](../06_listening_computer/README.md)  
-
+# 👁️ `07_seeing_computer`
 ---
-
-# 👁️ 07. Seeing Computer
 
 Until now, the computer could:
 - Talk
@@ -111,11 +106,11 @@ You just built a simple computer vision system.
 
 ## 📝 Practice Time
 
-👉 Go to: [TASKS.md](./TASKS.md)
+👉 Go to: [07_TASKS](07_seeing_computer/TASKS.md)
 
 ---
-⬅️ **Previous:** [06. Listening Computer](../06_listening_computer/README.md)
+⬅️ **Previous:** [06_listening_computer](06_listening_computer/README.md)
 
-➡️ **Next:** [08. Gesture Control](../08_gesture_control/README.md)
+➡️ **Next:** [08_gesture_control](08_gesture_control/README.md)
 
 ---

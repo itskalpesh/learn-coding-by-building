@@ -1,6 +1,4 @@
-# 📝 `03_remembering_things/TASKS.md`
-
-⬅️ Back to lesson: [README.md](./README.md)
+# 📝 `03_TASKS`
 
 ---
 
@@ -64,6 +62,6 @@ You are done when:
 - It works after closing and reopening
 
 ---
+⬅️ **Previous:** [03_remembering_things](03_remembering_things/README.md)
 
-➡️ Next Lesson:
-📘 [04. Useful Tools](../04_useful_tools/README.md)
+➡️ **Next:** [04_useful_tools](04_useful_tools/README.md)

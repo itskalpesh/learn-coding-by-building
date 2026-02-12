@@ -1,10 +1,6 @@
-# 📄 `05_talking_computer/README.md`
-
-⬅️ **Previous:** [04. Useful Tools](../04_useful_tools/README.md)
+# 🗣️ `05_talking_computer`
 
 ---
-
-# 🗣️ 05. Talking Computer
 
 Until now, the computer showed text.
 
@@ -109,11 +105,11 @@ This is called **Text-to-Speech (TTS)**.
 
 ## 📝 Practice Time
 
-👉 Go to: [TASKS.md](./TASKS.md)
+👉 Go to: [05_TASKS](05_talking_computer/TASKS.md)
 
 ---
 
 ## 🚀 Next Lesson
-⬅️ **Previous:** [04. Useful Tools](../04_useful_tools/README.md)
+⬅️ **Previous:** [04. Useful Tools](04_useful_tools/README.md)
 
-➡️ **Next:** [06. Listening Computer](../06_listening_computer/README.md)
+➡️ **Next:** [06. Listening Computer](06_listening_computer/README.md)

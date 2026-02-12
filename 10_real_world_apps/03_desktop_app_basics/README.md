@@ -1,7 +1,3 @@
-⬅️ Back: [Real World Apps](../README.md)
-
----
-
 # 🖥️ Desktop App Basics
 
 Now we build a real window app using Python.
@@ -32,4 +28,20 @@ text appears in window.
 
 ---
 
-👉 Practice: [TASKS.md](./TASKS.md)
+# Tasks
+
+1. Change window title.
+2. Add a clear button.
+3. Change font size.
+4. Add condition: if user types "hello", show special message.
+
+Success:
+- Window works without crashing
+- Button updates text correctly
+
+---
+
+⬅️ **Previous:** [10_real_world_apps](10_real_world_apps/README.md) 
+
+➡️ **Next:** [04_desktop_app_with_ai](10_real_world_apps/04_desktop_app_with_ai/README.md)
+

@@ -30,5 +30,19 @@ Input → Processing → Output
 All your previous projects fit into this structure.
 
 ---
+# Tasks
 
-👉 Practice: [TASKS.md](./TASKS.md)
+1. List 5 projects you built earlier.
+2. For each, write what role it would play in a larger AI.
+3. Draw a simple flow:
+
+User → ? → ? → Response
+
+You are done when:
+You can explain how at least 3 projects connect.
+
+---
+
+⬅️ **Previous:** [10_real_world_apps](10_real_world_apps/README.md) 
+
+➡️ **Next:** [12_build_ved_ai_capstone](12_build_ved_ai_capstone/README.md)

@@ -1,7 +1,3 @@
-⬅️ Back: [Real World Apps](../README.md)
-
----
-
 # 🌐 Web App Basics
 
 In this project, you will build a simple webpage
@@ -42,5 +38,18 @@ it shows a message.
 - Event handling
 
 ---
+# Tasks
 
-👉 Practice: [TASKS.md](./TASKS.md)
+1. Change background color.
+2. If user types "hello", show special message.
+3. Add another button that clears input.
+4. Style the page to look better.
+
+Success:
+- Page responds to user input
+- At least one condition works
+---
+
+⬅️ **Previous:** [10_real_world_apps](10_real_world_apps/README.md) 
+
+➡️ **Next:** [02_web_app_with_ai](10_real_world_apps/02_web_app_with_ai/README.md)

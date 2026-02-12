@@ -1,10 +1,6 @@
-# 📄 `06_listening_computer/README.md`
-
-⬅️ **Previous:** [05. Talking Computer](../05_talking_computer/README.md)  
+# 🎤 `06_listening_computer`
 
 ---
-
-# 🎤 06. Listening Computer
 
 In the last lesson, the computer learned to speak.
 
@@ -117,11 +113,11 @@ and returns the text.
 
 ## 📝 Practice Time
 
-👉 Go to: [TASKS.md](./TASKS.md)
+👉 Go to: [06_TASKS](06_listening_computer/TASKS.md)
 
 ---
-⬅️ **Previous:** [05. Talking Computer](../05_talking_computer/README.md)
+⬅️ **Previous:** [05. Talking Computer](05_talking_computer/README.md)
 
 
-➡️ **Next :** [07. Seeing Computer](../07_seeing_computer/README.md)
+➡️ **Next :** [07. Seeing Computer](07_seeing_computer/README.md)
 
