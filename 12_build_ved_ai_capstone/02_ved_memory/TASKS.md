@@ -1,7 +1,3 @@
-⬅️ Back to lesson: [README.md](./README.md)
-
----
-
 # Tasks — VED Memory
 
 ---
@@ -45,3 +41,7 @@ You are done when:
 - Memory persists after restart
 - Name can be stored and retrieved
 - At least one custom key-value pair works
+
+---
+➡️ **Continue to:**
+[02_ved_memory](12_build_ved_ai_capstone/03_ved_tools/README.md)

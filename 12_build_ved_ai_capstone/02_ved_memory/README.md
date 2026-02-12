@@ -1,8 +1,3 @@
-⬅️ Back: [01. VED Text Brain](../01_ved_text_brain/README.md)  
-➡️ Next: [03. VED Tools](../03_ved_tools/README.md)
-
----
-
 # 🧠 02. VED Memory
 
 Now we give VED memory.
@@ -65,11 +60,14 @@ This file keeps information even after program closes.
 
 ---
 
-👉 Practice: [TASKS.md](./TASKS.md)
+👉 Practice: [Ved_Memory_TASKS](12_build_ved_ai_capstone/02_ved_memory/TASKS.md)
 
 ---
 
 When ready:
 
 ➡️ Continue to:
-[03. VED Tools](../03_ved_tools/README.md)
+[03. VED Tools](12_build_ved_ai_capstone/03_ved_tools/README.md)
+
+➡️ Back to:
+[01_ved_text_brain](12_build_ved_ai_capstone/01_ved_text_brain/README.md)

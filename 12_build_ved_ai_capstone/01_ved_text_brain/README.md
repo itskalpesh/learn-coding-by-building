@@ -1,8 +1,3 @@
-⬅️ Back: [Capstone Overview](../README.md)  
-➡️ Next: [02. VED Memory](../02_ved_memory/README.md)
-
----
-
 # 🤖 01. VED Text Brain
 
 This is the foundation of VED.
@@ -82,11 +77,9 @@ python main.py
 
 ---
 
-👉 Practice: [TASKS.md](./TASKS.md)
+👉 Practice: [Ved_Brain_TASKS](12_build_ved_ai_capstone/01_ved_text_brain/TASKS.md)
 
 ---
 
-When done:
-
 ➡️ Continue to:
-[02. VED Memory](../02_ved_memory/README.md)
+[02_ved_memory](12_build_ved_ai_capstone/02_ved_memory/README.md)

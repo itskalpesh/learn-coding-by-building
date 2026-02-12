@@ -1,7 +1,3 @@
-⬅️ Back to lesson: [README.md](./README.md)
-
----
-
 # Tasks — VED Tools
 
 ---
@@ -35,3 +31,7 @@ You are done when:
 - At least 4 tool functions exist
 - Functions return values (not print directly)
 - Code is clean and modular
+
+---
+➡️ Continue to:
+[04_ved_voice](12_build_ved_ai_capstone/04_ved_voice/README.md)

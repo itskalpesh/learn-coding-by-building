@@ -51,11 +51,11 @@ VED will:
 
 ---
 
-👉 Practice: [TASKS.md](./TASKS.md)
+👉 Practice: [Ved_Voicde_TASKS](12_build_ved_ai_capstone/04_ved_voice/TASKS.md)
 
 ---
 
 When ready:
 
 ➡️ Continue to:
-[05. VED Vision](../05_ved_vision/README.md)
+[05. VED Vision](12_build_ved_ai_capstone/05_ved_vision/README.md)

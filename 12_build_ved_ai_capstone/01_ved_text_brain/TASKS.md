@@ -1,9 +1,4 @@
-⬅️ Back to lesson: [README.md](./README.md)
-
----
-
 # Tasks — VED Text Brain
-
 ---
 
 ## ✅ Task 1: Add New Command
@@ -50,3 +45,7 @@ You are ready to move forward when:
 - Loop works correctly
 - At least 4 commands work
 - Code is clean and readable
+
+---
+➡️ **Continue to:**
+[02_ved_memory](12_build_ved_ai_capstone/02_ved_memory/README.md)

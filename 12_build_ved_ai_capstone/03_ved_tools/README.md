@@ -1,8 +1,3 @@
-⬅️ Back: [02. VED Memory](../02_ved_memory/README.md)  
-➡️ Next: [04. VED Voice](../04_ved_voice/README.md)
-
----
-
 # 🛠️ 03. VED Tools
 
 Now we separate actions into a tools module.
@@ -51,11 +46,14 @@ brain.py will call these.
 
 ---
 
-👉 Practice: [TASKS.md](./TASKS.md)
+👉 Practice: [Ved_Tool_TASKS](12_build_ved_ai_capstone/03_ved_tools/TASKS.md)
 
 ---
 
 When ready:
 
 ➡️ Continue to:
-[04. VED Voice](../04_ved_voice/README.md)
+[04_ved_voice](12_build_ved_ai_capstone/04_ved_voice/README.md)
+
+➡️ Back to:
+[02_ved_memory](12_build_ved_ai_capstone/02_ved_memory/README.md)

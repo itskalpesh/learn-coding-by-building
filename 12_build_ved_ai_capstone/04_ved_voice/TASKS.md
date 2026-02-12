@@ -1,7 +1,3 @@
-⬅️ Back to lesson: [README.md](./README.md)
-
----
-
 # Tasks — VED Voice
 
 ---
@@ -31,3 +27,7 @@ You are done when:
 - speak() works
 - listen() works
 - Errors don’t crash program
+
+---
+➡️ Continue to:
+[05. VED Vision](12_build_ved_ai_capstone/05_ved_vision/README.md)
