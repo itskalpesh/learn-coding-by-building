@@ -28,4 +28,4 @@
 ---
 
 ## 🚀 4. Capstone
-- [12 Build Final VED](12_build_ved_ai_capstone/README.md)
+- [12_build_ved_ai_capstone](12_build_ved_ai_capstone/README.md)
